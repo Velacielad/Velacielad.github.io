@@ -1,3 +1,17 @@
+::selection {
+    background:#333;
+    color:#fff;
+}
+
+::-moz-selection {
+    background:#333;
+    color:#fff;
+}
+
+::-webkit-selection {
+    background:#333;
+    color:#fff;
+}
 body {
 	font-family: 'Open Sans', sans-serif;
 }
